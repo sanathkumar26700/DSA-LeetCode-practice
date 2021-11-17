@@ -1,2 +1,2 @@
 # DSA-LeetCode-practice
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub](https://github.com/QasimWani/LeetHub).
+Collection of LeetCode questions to develop logical and analytical thinking and also get a good hold of javascript and DS-Algo.
